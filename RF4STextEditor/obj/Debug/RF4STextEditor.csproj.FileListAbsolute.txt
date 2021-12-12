@@ -1,0 +1,6 @@
+C:\Users\darkx\source\repos\RF4STextEditor\RF4STextEditor\obj\Debug\RF4STextEditor.csprojAssemblyReference.cache
+C:\Users\darkx\source\repos\RF4STextEditor\RF4STextEditor\obj\Debug\RF4STextEditor.csproj.CoreCompileInputs.cache
+C:\Users\darkx\source\repos\RF4STextEditor\RF4STextEditor\bin\Debug\RF4STextExtractor.exe
+C:\Users\darkx\source\repos\RF4STextEditor\RF4STextEditor\bin\Debug\RF4STextExtractor.pdb
+C:\Users\darkx\source\repos\RF4STextEditor\RF4STextEditor\obj\Debug\RF4STextExtractor.exe
+C:\Users\darkx\source\repos\RF4STextEditor\RF4STextEditor\obj\Debug\RF4STextExtractor.pdb
