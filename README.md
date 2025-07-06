@@ -5,4 +5,4 @@ A simple text extractor for Rune Factory 4 Special Steam.
 RF4STextExtractor rf3TxtLoad.eng
 
 ## Import Text:
-RF4STextExtractor rf3TxtLoad.eng rf3TxtLoad.eng.txt
+RF4STextExtractor -i rf3TxtLoad.eng rf3TxtLoad.eng.txt
